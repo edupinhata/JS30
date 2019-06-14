@@ -3,10 +3,10 @@ Code of the 30 days of Java Script.
 
 ## Content
 
-- [ ] JavaScript Drum kit
-- [ ] CSSC + JS Clock
-- [ ] Playing with CSSC Variable and JS
-- [ ] Array Cardio Day 1
+- [x] JavaScript Drum kit
+- [x] CSSC + JS Clock
+- [x] Playing with CSSC Variable and JS
+- [x] Array Cardio Day 1
 - [ ] Flex Panels Image Gallery
 - [ ] Ajax Type Ahead
 - [ ] Array Cardio 2
